@@ -1,729 +1,1225 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Engage Columbus - New Pages</title>
-    <link>https://engage.columbus.gov/sitemap</link>
-    <description>Newly discovered pages on Engage Columbus (engage.columbus.gov)</description>
-    <lastBuildDate>Wed, 11 Nov 2026 13:07:56 +0000</lastBuildDate>
+    <title>Columbus City Bulletins</title>
+    <link>https://www.columbus.gov/Government/City-Council/City-Bulletins</link>
+    <description>PDF editions of the Columbus City Bulletin.</description>
     <item>
-      <title>Project Exhibits</title>
-      <link>https://engage.columbus.gov/cassadyavenuesharedusepath/documents</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/cassadyavenuesharedusepath/documents</guid>
-      <pubDate>Wed, 11 Nov 2026 13:07:55 +0000</pubDate>
+      <title>47 - November 21, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261121.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261121.pdf</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Key Dates</title>
-      <link>https://engage.columbus.gov/neareastslowzone/key_dates</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/neareastslowzone/key_dates</guid>
-      <pubDate>Wed, 11 Nov 2026 13:07:55 +0000</pubDate>
+      <title>46 - November 14, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261114.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261114.pdf</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Summit Street and 4th Avenue Test Project - Intersection Safety Improvements</title>
-      <link>https://engage.columbus.gov/summit4thtest</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/summit4thtest</guid>
-      <pubDate>Fri, 07 Aug 2026 06:58:26 +0000</pubDate>
+      <title>45 - November 07, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261107.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261107.pdf</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Polaris Parkway Safety Improvements - Gemini Place to South Olde Street Road</title>
-      <link>https://engage.columbus.gov/polarisparkwaysafety</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/polarisparkwaysafety</guid>
-      <pubDate>Thu, 30 Jul 2026 08:05:40 +0000</pubDate>
+      <title>44 - October 31, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261031.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261031.pdf</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Documents</title>
-      <link>https://engage.columbus.gov/hilliardromerennerintersection/documents</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/hilliardromerennerintersection/documents</guid>
-      <pubDate>Wed, 29 Jul 2026 08:17:24 +0000</pubDate>
+      <title>43 - October 24, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261024.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261024.pdf</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;a href="https://web.archive.org/web/20261023185539/https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261024.pdf"&gt;Wayback Machine&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Home</title>
-      <link>https://engage.columbus.gov/</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>42 - October 17, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261017.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261017.pdf</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sign In</title>
-      <link>https://engage.columbus.gov/login</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/login</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>41 - October 10, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261010.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261010.pdf</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sign Up</title>
-      <link>https://engage.columbus.gov/register</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/register</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>40 - October 3, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261003.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20261003.pdf</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DPS</title>
-      <link>https://engage.columbus.gov/dpsprojecthub</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/dpsprojecthub</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>39 - September 26, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260926.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260926.pdf</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>17th Avenue Sidewalks – I-71 to Billiter Boulevard</title>
-      <link>https://engage.columbus.gov/17thavenuesidewalks</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/17thavenuesidewalks</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>38 - September 19, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260919.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260919.pdf</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Additional Resources</title>
-      <link>https://engage.columbus.gov/17thavenuesidewalks/documents</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/17thavenuesidewalks/documents</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>37 - September 12, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260912.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260912.pdf</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Public Involvement Events</title>
-      <link>https://engage.columbus.gov/17thavenuesidewalks/key_dates</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/17thavenuesidewalks/key_dates</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>34 - August 22, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260822.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260822.pdf</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Crosswalk Safety Improvements - Phase 1</title>
-      <link>https://engage.columbus.gov/crosswalksafetyimprovementsphase1</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/crosswalksafetyimprovementsphase1</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>33- August 15, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260815.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260815.pdf</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Indianola Avenue - Resurfacing and Bikeways</title>
-      <link>https://engage.columbus.gov/indianolaavenueresurfacing</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/indianolaavenueresurfacing</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>32 - August 08, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260808.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260808.pdf</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Barnett Road Sidewalks - Astor Avenue to Main Street</title>
-      <link>https://engage.columbus.gov/barnettroadsidewalks</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/barnettroadsidewalks</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>31 - August 01, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260801.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260801.pdf</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Blossom Field Boulevard Safety Improvements - East Broad Street to Westbourne Avenue</title>
-      <link>https://engage.columbus.gov/blossomfieldboulevardimprovements</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/blossomfieldboulevardimprovements</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>30 - July 25, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260725.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260725.pdf</guid>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>East Broad Street at James Road Intersection Safety Improvements</title>
-      <link>https://engage.columbus.gov/broadjamesintersection</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/broadjamesintersection</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>29 - July 18, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260718.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260718.pdf</guid>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cassady Avenue Shared Use Path - 7th Avenue to Plaza Properties Boulevard</title>
-      <link>https://engage.columbus.gov/cassadyavenuesharedusepath</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/cassadyavenuesharedusepath</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>28 - July 11, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260711.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260711.pdf</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Courtright Road Sidewalks - Refugee Road to Groves Road Pedestrian Safety Improvements</title>
-      <link>https://engage.columbus.gov/courtrightroadsidewalks</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/courtrightroadsidewalks</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>27 - July 04, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260704.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260704.pdf</guid>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Crosswalk Safety Improvements - Phase 2</title>
-      <link>https://engage.columbus.gov/crosswalksafetyimprovementsphase2</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/crosswalksafetyimprovementsphase2</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>26 - June 27, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260627.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260627.pdf</guid>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bethel Road at Dierker Road Intersection Improvements</title>
-      <link>https://engage.columbus.gov/betheldierkerintersection</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/betheldierkerintersection</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>25 - June 20, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260620.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260620.pdf</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bridge Rehabilitation - Kimberly Parkway over Mason Run</title>
-      <link>https://engage.columbus.gov/kimberlyparkwaybridgerehab</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/kimberlyparkwaybridgerehab</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>24 - June 13, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260613.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260613.pdf</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Busch Boulevard and Schrock Road Safety Improvements - SR 161 to Schrock and Busch Boulevard to Bridge over I-71</title>
-      <link>https://engage.columbus.gov/buschschrockimprovements</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/buschschrockimprovements</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>23 - June 06, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260606.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260606.pdf</guid>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ceres Drive Safety Improvements - Polaris Parkway to Ikea Way</title>
-      <link>https://engage.columbus.gov/ceresdrivesafety</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/ceresdrivesafety</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>22 - May 30, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260530.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260530.pdf</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cleveland Avenue at Hudson Street - Intersection Safety Improvements</title>
-      <link>https://engage.columbus.gov/clevelandhudsonintersection</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/clevelandhudsonintersection</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>21 - May 23, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260523.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260523.pdf</guid>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title/>
-      <link>https://engage.columbus.gov/dresdenstreetsidewalks</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/dresdenstreetsidewalks</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>20 - May 16, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260516.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260516.pdf</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Dublin-Granville Road at Ulry Road - Intersection Safety Improvements</title>
-      <link>https://engage.columbus.gov/dublingranvilleulryintersection</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/dublingranvilleulryintersection</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>19 - May 09, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260509.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260509.pdf</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bridge Rehabilitation - Front Street and Nationwide Boulevard over the Railroad Tunnel</title>
-      <link>https://engage.columbus.gov/frontnationwidebridgerehab</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/frontnationwidebridgerehab</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>18 - May 02, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260502.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260502.pdf</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Public Engagement/Additional Resources</title>
-      <link>https://engage.columbus.gov/frontnationwidebridgerehab/documents</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/frontnationwidebridgerehab/documents</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>17 - April 25, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/3/city-council/documents/city-bulletins/2026/bulletin20260425.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/3/city-council/documents/city-bulletins/2026/bulletin20260425.pdf</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Central College - Ulry Road Roadway Safety Improvements - Lee Road to Sandimark Place</title>
-      <link>https://engage.columbus.gov/centralcollegeulrysafety</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/centralcollegeulrysafety</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>16 - April 18, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260414.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260414.pdf</guid>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Key Dates</title>
-      <link>https://engage.columbus.gov/centralcollegeulrysafety/key_dates</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/centralcollegeulrysafety/key_dates</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>15 - April 11, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260411.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260411.pdf</guid>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>East Broad Street Phase 1 Safety Improvements - I-270 to Outerbelt Street</title>
-      <link>https://engage.columbus.gov/eastbroadstreetphase1</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/eastbroadstreetphase1</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>14 - April 04, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260404.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260404.pdf</guid>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Georgesville Road at Hall Road - Intersection Safety Improvements</title>
-      <link>https://engage.columbus.gov/georgesvillehallintersection</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/georgesvillehallintersection</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>13 - March 28, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260328.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260328.pdf</guid>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Grace Street Sidewalks - Orel Avenue to Eureka Avenue</title>
-      <link>https://engage.columbus.gov/gracestreetsidewalks</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/gracestreetsidewalks</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>12 - March 21, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260321.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260321.pdf</guid>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hiawatha Park Drive Shared-Use Path - Silver Drive/Velma Avenue to Hudson Street</title>
-      <link>https://engage.columbus.gov/hiawathaparkdrivesup</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/hiawathaparkdrivesup</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>11 - March 14, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/3/city-council/documents/city-bulletins/2026/bulletin20260314_1.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/3/city-council/documents/city-bulletins/2026/bulletin20260314_1.pdf</guid>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lockbourne Road at Obetz Road and Volta Drive Signal Replacement</title>
-      <link>https://engage.columbus.gov/lockbourneobetzvoltasignal</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/lockbourneobetzvoltasignal</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>10 - March 07, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260307.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260307.pdf</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <description>&lt;a href="https://web.archive.org/web/20260827204343/https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260307.pdf"&gt;Wayback Machine&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Morse Road at Westerville Road - Intersection Safety Improvements</title>
-      <link>https://engage.columbus.gov/morsewestervilleintersection</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/morsewestervilleintersection</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>09 - February 28, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260228.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260228.pdf</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <description>&lt;a href="https://web.archive.org/web/20260827204342/https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260228.pdf"&gt;Wayback Machine&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Olive Street and Floral Avenue Sidewalks</title>
-      <link>https://engage.columbus.gov/olivefloralsidewalks</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/olivefloralsidewalks</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>08 - February 21, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/3/city-council/documents/city-bulletins/2026/bulletin20260221.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/3/city-council/documents/city-bulletins/2026/bulletin20260221.pdf</guid>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <description>&lt;a href="https://web.archive.org/web/20260827204341/https://www.columbus.gov/files/sharedassets/city/v/3/city-council/documents/city-bulletins/2026/bulletin20260221.pdf"&gt;Wayback Machine&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Operation Safewalks - Refugee Road School Sidewalks - Noe Bixby Road to Blue Moon Drive</title>
-      <link>https://engage.columbus.gov/refugeeschoolsidewalks</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/refugeeschoolsidewalks</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>07 - February 14, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260214.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260214.pdf</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <description>&lt;a href="https://web.archive.org/web/20260827204341/https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260214.pdf"&gt;Wayback Machine&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Rich Street Signal Interconnect Improvements - 3rd Street to Grant Avenue</title>
-      <link>https://engage.columbus.gov/richstreetsignals</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/richstreetsignals</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>06 - February 07, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260207.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260207.pdf</guid>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <description>&lt;a href="https://web.archive.org/web/20260827204341/https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260207.pdf"&gt;Wayback Machine&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Sinclair Road Sidewalks - Morse Road to Strimple Avenue</title>
-      <link>https://engage.columbus.gov/sinclairroadsidewalks</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/sinclairroadsidewalks</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>05 - January 31, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260131.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260131.pdf</guid>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      <description>&lt;a href="https://web.archive.org/web/20260827204341/https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260131.pdf"&gt;Wayback Machine&lt;/a&gt;</description>
     </item>
     <item>
-      <title>South High Street at Dering Avenue - Signal Replacement</title>
-      <link>https://engage.columbus.gov/highderingsignal</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/highderingsignal</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>04- January 24, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260124.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260124.pdf</guid>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <description>&lt;a href="https://web.archive.org/web/20260827204341/https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260124.pdf"&gt;Wayback Machine&lt;/a&gt;</description>
     </item>
     <item>
-      <title/>
-      <link>https://engage.columbus.gov/statemcdowellimprovements</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/statemcdowellimprovements</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>03 - January 17, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260117.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260117.pdf</guid>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      <description>&lt;a href="https://web.archive.org/web/20260827204341/https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260117.pdf"&gt;Wayback Machine&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Summit Street Signals Phase 1 - Warren Street to 7th Avenue</title>
-      <link>https://engage.columbus.gov/summitsignalsphase1</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/summitsignalsphase1</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>02- January 10, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260110.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260110.pdf</guid>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <description>&lt;a href="https://web.archive.org/web/20260827204341/https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260110.pdf"&gt;Wayback Machine&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Summit Street Signals Phase 2 - Chittenden Avenue to Hudson Street</title>
-      <link>https://engage.columbus.gov/summitsignalsphase2</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/summitsignalsphase2</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>01 - January 03, 2026</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260103.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260103.pdf</guid>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <description>&lt;a href="https://web.archive.org/web/20260827204341/https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2026/bulletin20260103.pdf"&gt;Wayback Machine&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Traffic Signals - Flashing Yellow Arrow Implementation Pilot</title>
-      <link>https://engage.columbus.gov/flashingyellowarrowpilot</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/flashingyellowarrowpilot</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>52 - December 27, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251227.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251227.pdf</guid>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Westbourne Avenue Phase 1 Extension - Taylor Station Road to Blossom Field Boulevard</title>
-      <link>https://engage.columbus.gov/westbourneavenuephase1</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/westbourneavenuephase1</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>51 - December 20, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251220.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251220.pdf</guid>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>West Broad Street and Doherty Road Pavement Additions</title>
-      <link>https://engage.columbus.gov/broaddohertyadditions</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/broaddohertyadditions</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>50 - December 13, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251213.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251213.pdf</guid>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Whittier Street Improvements - Front Street to the park path</title>
-      <link>https://engage.columbus.gov/whittierstreetimprovements</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/whittierstreetimprovements</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>49 - December 06, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251206.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251206.pdf</guid>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>4th Street Signals - 1st to 17th Avenue</title>
-      <link>https://engage.columbus.gov/4thstreetsignals</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/4thstreetsignals</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>48 - November 29, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251129.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251129.pdf</guid>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Agler Road Sidewalks - Sunbury Road to Cassady Avenue</title>
-      <link>https://engage.columbus.gov/aglerroadsidewalks</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/aglerroadsidewalks</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>47 - November 22, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251122.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251122.pdf</guid>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Astor Park Streetscape Phase 2</title>
-      <link>https://engage.columbus.gov/astorparkstreetscape</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/astorparkstreetscape</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>46 - November 15, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251115.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251115.pdf</guid>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Avery Road Safety Improvements - Hayden Run Road to Avery Run Road</title>
-      <link>https://engage.columbus.gov/averyroadsafety</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/averyroadsafety</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>45 - November 08, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251108.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251108.pdf</guid>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cassady Avenue Roadway Safety Improvements - Delmar Drive to 7th Avenue</title>
-      <link>https://engage.columbus.gov/cassadydelmar7th</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/cassadydelmar7th</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>44 - November 01, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251101.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251101.pdf</guid>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Downtown Concrete Bus Pad Upgrades</title>
-      <link>https://engage.columbus.gov/downtownbuspadupgrades</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/downtownbuspadupgrades</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>43 - October 25, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251025.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251025.pdf</guid>
+      <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Eakin Road Shared Use Path - Wayne Avenue to Whitethorne Avenue</title>
-      <link>https://engage.columbus.gov/eakinroadsharedusepath</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/eakinroadsharedusepath</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>42 - October 18, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251018.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251018.pdf</guid>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>East 5th Avenue Safety Improvements - Wall Street to North 5th Street</title>
-      <link>https://engage.columbus.gov/5thavenuesafetyimprovements</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/5thavenuesafetyimprovements</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>41 - October 11, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251011.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251011.pdf</guid>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>East Broad Street Phase 2 Safety Improvements - Outerbelt Street to Reynoldsburg-New Albany Road</title>
-      <link>https://engage.columbus.gov/eastbroadstreetphase2</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/eastbroadstreetphase2</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>40 - October 04, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251004.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20251004.pdf</guid>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Eastland Area Stormwater Basin</title>
-      <link>https://engage.columbus.gov/eastlandbasin</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/eastlandbasin</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>39 - September 27, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250927.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250927.pdf</guid>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gantz Road Bridge over I-270 Safety Improvements</title>
-      <link>https://engage.columbus.gov/gantzbridgeoveri270</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/gantzbridgeoveri270</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>38 - September 20, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250920.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250920.pdf</guid>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Georgesville Road Safety Improvements - IR-270 to Sullivant Avenue</title>
-      <link>https://engage.columbus.gov/georgesvillesafetyimprovements</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/georgesvillesafetyimprovements</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>37 - September 13, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250913.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250913.pdf</guid>
+      <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Georgesville Road Shared Use Path - Parkwick Drive to Sullivant Avenue</title>
-      <link>https://engage.columbus.gov/goergesvillesharedusepath</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/goergesvillesharedusepath</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>36 - September 06, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250906.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250906.pdf</guid>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title/>
-      <link>https://engage.columbus.gov/greenlawnthurmanhighintersection</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/greenlawnthurmanhighintersection</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>35 - August 30, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250830.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250830.pdf</guid>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Harrisburg Pike at Brown Road Signal Replacement</title>
-      <link>https://engage.columbus.gov/harrisburgbrownsignal</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/harrisburgbrownsignal</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>34 - August 23, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250823.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250823.pdf</guid>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hilliard Rome Road at Renner Road - Intersection Safety Improvements</title>
-      <link>https://engage.columbus.gov/hilliardromerennerintersection</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/hilliardromerennerintersection</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>33 - August 16, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250816.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250816.pdf</guid>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Livingston Avenue - 18th Street to Nelson Road</title>
-      <link>https://engage.columbus.gov/livingston18thnelson</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/livingston18thnelson</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>32 - August 09, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250809.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250809.pdf</guid>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Livingston Avenue Resurfacing - Nelson Road to College Avenue and College Avenue to I-70</title>
-      <link>https://engage.columbus.gov/livingstonavenueresurfacing</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/livingstonavenueresurfacing</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>31 - August 02, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250802.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250802.pdf</guid>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Livingston Avenue Safety Improvements - Alum Creek Trail to James Road</title>
-      <link>https://engage.columbus.gov/livingstonalumcreekjames</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/livingstonalumcreekjames</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>30 - July 26, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250726.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250726.pdf</guid>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Leonard Avenue Safety Improvements - Under the Railroad Bridge</title>
-      <link>https://engage.columbus.gov/leonardavenuerailroadbridge</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/leonardavenuerailroadbridge</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>29 - July 19, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250719.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250719.pdf</guid>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lockbourne Road Streetscape Improvements - Watkins Road to SR104</title>
-      <link>https://engage.columbus.gov/lockbourneroadimprovements</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/lockbourneroadimprovements</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>28 - July 12, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250712.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250712.pdf</guid>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>McComb Road Bridge over I-270 - Pedestrian Safety Improvements</title>
-      <link>https://engage.columbus.gov/mccombbridgepedestriansafety</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/mccombbridgepedestriansafety</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>27 - July 05, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250705.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250705.pdf</guid>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>McNaughten Road Shared Use Path - Main Street to Broad Street</title>
-      <link>https://engage.columbus.gov/mcnaughtensharedusepath</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/mcnaughtensharedusepath</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>26 - June 28, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250628.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250628.pdf</guid>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Public Engagement Events</title>
-      <link>https://engage.columbus.gov/mcnaughtensharedusepath/key_dates</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/mcnaughtensharedusepath/key_dates</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>25 - June 21, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250621.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250621.pdf</guid>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mt Vernon Avenue Area - Phase 1 Roadway Improvements</title>
-      <link>https://engage.columbus.gov/mtvernonavenuephase1</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/mtvernonavenuephase1</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>24 - June 14, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250614.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250614.pdf</guid>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Documents</title>
-      <link>https://engage.columbus.gov/mtvernonavenuephase1/documents</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/mtvernonavenuephase1/documents</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>23 - June 07, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250607.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250607.pdf</guid>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Nelson Road Resurfacing - East Broad Street to East 5th Avenue</title>
-      <link>https://engage.columbus.gov/nelsonroadresurfacing</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/nelsonroadresurfacing</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>22 - May 31, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin05312025.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin05312025.pdf</guid>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>N. 4th Street and E. 5th Avenue Bikeway and Roadway Safety Improvements</title>
-      <link>https://engage.columbus.gov/4thstreet5thavenuesafety</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/4thstreet5thavenuesafety</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>21 - May 24, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250524_2.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250524_2.pdf</guid>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Additional Resources</title>
-      <link>https://engage.columbus.gov/4thstreet5thavenuesafety/documents</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/4thstreet5thavenuesafety/documents</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>20 - May 17, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250517_1.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250517_1.pdf</guid>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>North Hamilton Safety Improvements Phase C - Dublin Granville Road to Central College Road</title>
-      <link>https://engage.columbus.gov/northhamiltonphasec</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/northhamiltonphasec</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>19 - May 10, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250510.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250510.pdf</guid>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Polaris Parkway Pavement Additions - Gemini Place to South Olde Street Road</title>
-      <link>https://engage.columbus.gov/polarisparkwaypavement</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/polarisparkwaypavement</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>18 - May 3, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250503.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250503.pdf</guid>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Refugee Road at Hines Road - Intersection Safety Improvements</title>
-      <link>https://engage.columbus.gov/refugeehinesintersection</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/refugeehinesintersection</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>17 - April 26, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250426.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250426.pdf</guid>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Roberts Road at Frazell Road and Spindler Road - Intersection Safety Improvements</title>
-      <link>https://engage.columbus.gov/robertsfrazellspindlerintersection</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/robertsfrazellspindlerintersection</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>16 - April 19, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250419.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250419.pdf</guid>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sancus Boulevard Shared Use Path - Worthington Galena Road to Worthington Woods Boulevard</title>
-      <link>https://engage.columbus.gov/sancusboulevardsharedusepath</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/sancusboulevardsharedusepath</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>15 - April 12, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250412.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250412.pdf</guid>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sancus Boulevard Improvements - Worthington Woods Boulevard to Lazelle Road</title>
-      <link>https://engage.columbus.gov/sancusboulevardimprovements</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/sancusboulevardimprovements</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>14 - April 05, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250405.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250405.pdf</guid>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>South Linden Sidewalks</title>
-      <link>https://engage.columbus.gov/southlindensidewalks</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/southlindensidewalks</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>13 - March 29, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250329.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250329.pdf</guid>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SR 161 at Linworth Road Intersection Improvements</title>
-      <link>https://engage.columbus.gov/161linworthintersection</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/161linworthintersection</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>12 - March 22, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250322.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250322.pdf</guid>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SR 161 Phase 2 - Tamarack Boulevard, Sharon Woods Boulevard, Beechcroft Road</title>
-      <link>https://engage.columbus.gov/161phase2</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/161phase2</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>11 - March 15, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250315.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250315.pdf</guid>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SR 161 Safety Improvements - Busch Boulevard to Ambleside Drive</title>
-      <link>https://engage.columbus.gov/161safetyimprovements</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/161safetyimprovements</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>10 - March 08, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250308.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250308.pdf</guid>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SR 161 Shared Use Path - Sawmill Road to Thompson Street</title>
-      <link>https://engage.columbus.gov/161sharedusepath</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/161sharedusepath</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>09 - March 01, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250301.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250301.pdf</guid>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sullivant Avenue Shared Use Path - Georgesville Road to Wilson Road</title>
-      <link>https://engage.columbus.gov/sullivantavenuesharedusepath</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/sullivantavenuesharedusepath</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>08 - February 22, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250222.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250222.pdf</guid>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Trabue Road Bridge Improvements over IR-270</title>
-      <link>https://engage.columbus.gov/trabueroadbridge</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/trabueroadbridge</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>07 - February 15, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250215.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250215.pdf</guid>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tussing Road Shared Use Path - Brice Road to Hines Road</title>
-      <link>https://engage.columbus.gov/tussingroadsharedusepath</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/tussingroadsharedusepath</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>06 - February 08, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250208.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250208.pdf</guid>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Walford Street, Sharbot Drive, and Northtowne Boulevard Sidewalks - Pedestrian Safety Improvements</title>
-      <link>https://engage.columbus.gov/walfordsharbotnorthtownesidewalks</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/walfordsharbotnorthtownesidewalks</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>05 - February 01, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250201.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250201.pdf</guid>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sharon Woods Boulevard Bike Lanes - SR 161 to Schrock Road</title>
-      <link>https://engage.columbus.gov/sharonwoodsbikelanes</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/sharonwoodsbikelanes</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>04 - January 25, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250125.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250125.pdf</guid>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Public Engagement/Additional Resources</title>
-      <link>https://engage.columbus.gov/sharonwoodsbikelanes/documents</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/sharonwoodsbikelanes/documents</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>03 - January 18, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250118.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250118.pdf</guid>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Columbus Region Network of Knowledge, New Opportunities, and Technology (N. KNOT) - FY26 BUILD Planning Grant Application</title>
-      <link>https://engage.columbus.gov/nknotbuild2026</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/nknotbuild2026</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>02 - January 11, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250111.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250111.pdf</guid>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Application Materials</title>
-      <link>https://engage.columbus.gov/nknotbuild2026/documents</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/nknotbuild2026/documents</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>01 - January 04, 2025</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250104.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2025/bulletin20250104.pdf</guid>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Near East Neighborhood Slow Zone - Vision Zero Demonstration Project</title>
-      <link>https://engage.columbus.gov/neareastslowzone</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/neareastslowzone</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>52 - December 28, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241228.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241228.pdf</guid>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Public Engagement/Additional Resources</title>
-      <link>https://engage.columbus.gov/neareastslowzone/documents</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/neareastslowzone/documents</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>51 - December 21, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241221.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241221.pdf</guid>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Renner Road - Trabue Road - McKinely Avenue (RTMC) Mobility Study</title>
-      <link>https://engage.columbus.gov/rennertrabuemckinelymobility</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/rennertrabuemckinelymobility</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>50 - December 14, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241214.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241214.pdf</guid>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Public Engagement/Additional Resources</title>
-      <link>https://engage.columbus.gov/rennertrabuemckinelymobility/documents</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/rennertrabuemckinelymobility/documents</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>49 - December 07, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241207.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241207.pdf</guid>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Eastmoor Boulevard Safety and Mobility Improvements</title>
-      <link>https://engage.columbus.gov/eastmoorsafetymobility</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/eastmoorsafetymobility</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>48 - November 30, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241130.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241130.pdf</guid>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Public Engagement/Additional Resources</title>
-      <link>https://engage.columbus.gov/eastmoorsafetymobility/documents</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/eastmoorsafetymobility/documents</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>47 - November 23, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241123.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241123.pdf</guid>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gender Road Corridor Mobility Study</title>
-      <link>https://engage.columbus.gov/genderroadmobilitystudy</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/genderroadmobilitystudy</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>46 - November 16, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241116.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241116.pdf</guid>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Columbus Post-Crash Care Project - FY26 Safe Streets and Roads for All Grant Application</title>
-      <link>https://engage.columbus.gov/postcrashcaress4a2026</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/postcrashcaress4a2026</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>45 - November 09, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241109.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241109.pdf</guid>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Application Materials</title>
-      <link>https://engage.columbus.gov/postcrashcaress4a2026/documents</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/postcrashcaress4a2026/documents</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>44 - November 02, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241102.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241102.pdf</guid>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hilliard-Rome Road - FY26 Crossing Safety Program Grant Application</title>
-      <link>https://engage.columbus.gov/hilliardromeroadcrossingsafety2026</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/hilliardromeroadcrossingsafety2026</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>43 - October 26, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241026.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241026.pdf</guid>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Application Materials</title>
-      <link>https://engage.columbus.gov/hilliardromeroadcrossingsafety2026/documents</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/hilliardromeroadcrossingsafety2026/documents</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>42 - October 19, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241019.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241019.pdf</guid>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Safety Improvements Toolkit</title>
-      <link>https://engage.columbus.gov/safetytest</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/safetytest</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>41 - October 12, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241012.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241012.pdf</guid>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hilliard-Rome Road - FY26 CRISI Grant Application</title>
-      <link>https://engage.columbus.gov/hilliardromeroadcrisi2026</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/hilliardromeroadcrisi2026</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>40 - October 5, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241005.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20241005.pdf</guid>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Application Materials</title>
-      <link>https://engage.columbus.gov/hilliardromeroadcrisi2026/documents</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/hilliardromeroadcrisi2026/documents</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>39 - September 28, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240928.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240928.pdf</guid>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Livingston Avenue and Courtright Road Test Project - Right Turn Lane Closure</title>
-      <link>https://engage.columbus.gov/livingstoncourtrighttest</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/livingstoncourtrighttest</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>38 - September 21, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240921.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240921.pdf</guid>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Terms and Conditions</title>
-      <link>https://engage.columbus.gov/terms</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/terms</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>37- September 14, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240914.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240914.pdf</guid>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Privacy Policy</title>
-      <link>https://engage.columbus.gov/privacy</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/privacy</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>36 - September 07, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240907.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240907.pdf</guid>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Moderation Policy</title>
-      <link>https://engage.columbus.gov/moderation</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/moderation</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>35 - August 31, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240831.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240831.pdf</guid>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Accessibility</title>
-      <link>https://engage.columbus.gov/accessibility</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/accessibility</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>34 - August 24, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240824.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240824.pdf</guid>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Technical Support</title>
-      <link>https://engage.columbus.gov/technical_support</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/technical_support</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>33 - August 17, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240817.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240817.pdf</guid>
+      <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cookie Policy</title>
-      <link>https://engage.columbus.gov/cookie_policy</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/cookie_policy</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>32 - August 10, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240810.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240810.pdf</guid>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Site Map</title>
-      <link>https://engage.columbus.gov/sitemap</link>
-      <guid isPermaLink="true">https://engage.columbus.gov/sitemap</guid>
-      <pubDate>Thu, 25 Jun 2026 19:12:03 +0000</pubDate>
+      <title>31 - August 3, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240803.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240803.pdf</guid>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Columbus Website</title>
-      <link>https://www.columbus.gov/Home</link>
-      <guid isPermaLink="true">https://www.columbus.gov/Home</guid>
-      <pubDate>Thu, 25 Jun 2026 18:54:35 +0000</pubDate>
+      <title>30 - July 27, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240727.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240727.pdf</guid>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>29 - July 20, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240720.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240720.pdf</guid>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>28 - July 13, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240713.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240713.pdf</guid>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>27 - July 06, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240706.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240706.pdf</guid>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>26 - June 29, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240629.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240629.pdf</guid>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>25 - June 22, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240622.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240622.pdf</guid>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>24 - June 15, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240615.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240615.pdf</guid>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>23 - June 8, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240608.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240608.pdf</guid>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>22 - June 1, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240601.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240601.pdf</guid>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>21 - May 25, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240525.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240525.pdf</guid>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>20 - May 18, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240518.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240518.pdf</guid>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>19 - May 11, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240511.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240511.pdf</guid>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>18 - May 4, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240504.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240504.pdf</guid>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>17 - April 27, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240427.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240427.pdf</guid>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>16 - April 20, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240420.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240420.pdf</guid>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>15 - April 13, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240413.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240413.pdf</guid>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>14 - April 6, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240406.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240406.pdf</guid>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>13 - March 30, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240330.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240330.pdf</guid>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>12 - March 23, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240323.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240323.pdf</guid>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>11 - March 16, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240316.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240316.pdf</guid>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 - March 09, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240309.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240309.pdf</guid>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>09 - March 02, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240302.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240302.pdf</guid>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>08 - February 24, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240224.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240224.pdf</guid>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>07 - February 17, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240217.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240217.pdf</guid>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>06 - February 10, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240210.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240210.pdf</guid>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>05 - February 3, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240203.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240203.pdf</guid>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>04 - January 27, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240127.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240127.pdf</guid>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>03 - January 20, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240120.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240120.pdf</guid>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>02 - January 13, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240113.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240113.pdf</guid>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>01 - January 6, 2024</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240106.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2024/bulletin20240106.pdf</guid>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>52 - December 30, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231230.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231230.pdf</guid>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>51 - December 23, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231223.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231223.pdf</guid>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>50 - December 16, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231216.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231216.pdf</guid>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>49 - December 9, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231209.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231209.pdf</guid>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>48 - December 2, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231202.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231202.pdf</guid>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>47 - November 25, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231125.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231125.pdf</guid>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>46 - November 18, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231118.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231118.pdf</guid>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>45 - November 11, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231111.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231111.pdf</guid>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>44 - November 4, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231104.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231104.pdf</guid>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>43 - October 28, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231028.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231028.pdf</guid>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>42 - October 21, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231021.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231021.pdf</guid>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>41 - October 14, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231014.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231014.pdf</guid>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>40 - October 7, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231007.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20231007.pdf</guid>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>39 - September 30, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230930.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230930.pdf</guid>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>38 - September 23, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230923.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230923.pdf</guid>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>37 - September 16, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230916.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230916.pdf</guid>
+      <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>36 - September 9, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230909.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230909.pdf</guid>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>35 - September 2, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230902.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230902.pdf</guid>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>34 - August 26, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230826.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230826.pdf</guid>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>33 - August 19, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230819.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230819.pdf</guid>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>32 - August 12, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230812.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230812.pdf</guid>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>31 - August 5, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230805.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230805.pdf</guid>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>30 - July 29, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230729.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230729.pdf</guid>
+      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>29 - July 22, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230722.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230722.pdf</guid>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>28 - July 15, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230715.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230715.pdf</guid>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>27 - July 8, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230708.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230708.pdf</guid>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>26 - July 1, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230701.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230701.pdf</guid>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>25 - June 24, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230624.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230624.pdf</guid>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>24 - June 17, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230617.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230617.pdf</guid>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>23 - June 10, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230610.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230610.pdf</guid>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>22 - June 3, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230603.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230603.pdf</guid>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>21 - May 27, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230527.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230527.pdf</guid>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>20 - May 20, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230520.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230520.pdf</guid>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>19 - May 13, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230513.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230513.pdf</guid>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>18 - May 6, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230506.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230506.pdf</guid>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>17 - April 29, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230429.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230429.pdf</guid>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>16 - April 22, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230422.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230422.pdf</guid>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>15 - April 15, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230415.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230415.pdf</guid>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>14 - April 8, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230408.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230408.pdf</guid>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>13 - April 1, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230401.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230401.pdf</guid>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>12 - March 25, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230325.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230325.pdf</guid>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>11 - March 18, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230318.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230318.pdf</guid>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 - March 11, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230311.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230311.pdf</guid>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>9 - March 4, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230304.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230304.pdf</guid>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 - February 25, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230225.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230225.pdf</guid>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 - February 18, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230218.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230218.pdf</guid>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>6 - February 11, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230211.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230211.pdf</guid>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 - February 4, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230204.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230204.pdf</guid>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4 - January 28, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230128.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230128.pdf</guid>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 - January 21, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230121.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230121.pdf</guid>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2 - January 14, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230114.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230114.pdf</guid>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 - January 7, 2023</title>
+      <link>https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230107.pdf</link>
+      <guid isPermaLink="true">https://www.columbus.gov/files/sharedassets/city/v/1/city-council/documents/city-bulletins/2023/bulletin20230107.pdf</guid>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

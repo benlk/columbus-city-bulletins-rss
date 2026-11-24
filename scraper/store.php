@@ -5,7 +5,7 @@
 
 declare(strict_types=1);
 
-const CSV_FIELDS = ['url', 'title', 'first_seen_utc', 'source', 'run_id'];
+const CSV_FIELDS = ['url', 'title', 'issue_number', 'publication_date', 'first_seen_utc', 'source', 'run_id', 'wayback_url', 'archive_status', 'archive_job_id', 'archive_attempts', 'archive_retry_after'];
 
 /**
  * Ensure CSV file exists and is initialized with headers.
@@ -32,15 +32,15 @@ function ensure_csv_exists(string $path): void {
 }
 
 /**
- * Load all known URLs from the CSV file.
+ * Load all bulletin records keyed by original URL.
  *
  * @param  string $path The path to the CSV file.
  * @return array Associative array with URLs as keys.
  */
-function load_known_urls( string $path ): array {
+function load_records( string $path ): array {
 	ensure_csv_exists( $path );
 
-	$known = [];
+	$records = [];
 	$fh = fopen( $path, 'r' );
 	if ($fh === false) {
 		throw new RuntimeException( 'Unable to read CSV file: ' . $path );
@@ -49,42 +49,43 @@ function load_known_urls( string $path ): array {
 	$header = fgetcsv( $fh, null, ',', '"', '\\' );
 	if ($header === false) {
 		fclose( $fh );
-		return $known;
+		throw new RuntimeException( 'CSV header is missing: ' . $path );
+	}
+	if ($header !== CSV_FIELDS ) {
+		fclose( $fh );
+		throw new RuntimeException( 'Unexpected CSV header: ' . $path );
 	}
 
 	while (($row = fgetcsv( $fh, null, ',', '"', '\\' )) !== false) {
+		if (count( $header ) !== count( $row ) ) {
+			fclose( $fh );
+			throw new RuntimeException( 'Malformed CSV record: ' . $path );
+		}
 		$mapped = array_combine( $header, $row );
 		if (!is_array( $mapped )) {
-			continue;
+			fclose( $fh );
+			throw new RuntimeException( 'Malformed CSV record: ' . $path );
 		}
 
 		$url = trim( (string) ($mapped['url'] ?? '') );
 		if ($url !== '') {
-			$known[$url] = true;
+			$records[$url] = $mapped;
 		}
 	}
 
 	fclose( $fh );
-	return $known;
+	return $records;
 }
 
 /**
- * Append new rows to the CSV file atomically.
+ * Atomically replace the CSV with the supplied records.
  *
  * @param  string $path The path to the CSV file.
- * @param  array  $rows Array of row arrays to append.
+ * @param  array  $rows Records to save.
  * @return void
  */
-function append_new_rows( string $path, array $rows ): void {
-	if (count( $rows ) === 0) {
-		return;
-	}
-
+function save_records( string $path, array $rows ): void {
 	ensure_csv_exists( $path );
-	$existing = file_get_contents( $path );
-	if ($existing === false) {
-		throw new RuntimeException( 'Unable to read existing CSV for append: ' . $path );
-	}
 
 	$dir = dirname( $path );
 	$tmp_path = tempnam( $dir, 'links_' );
@@ -97,23 +98,24 @@ function append_new_rows( string $path, array $rows ): void {
 		throw new RuntimeException( 'Unable to open temp file for writing: ' . $tmp_path );
 	}
 
-	fwrite( $tmp_file, $existing );
-	foreach ($rows as $row) {
-		fputcsv(
-			$tmp_file,
-			[
-				(string) ($row['url'] ?? ''),
-				(string) ($row['title'] ?? ''),
-				(string) ($row['first_seen_utc'] ?? ''),
-				(string) ($row['source'] ?? 'sitemap'),
-				(string) ($row['run_id'] ?? ''),
-			],
-			',',
-			'"',
-			'\\'
-		);
+	if (fputcsv( $tmp_file, CSV_FIELDS, ',', '"', '\\' ) === false ) {
+		fclose( $tmp_file );
+		unlink( $tmp_path );
+		throw new RuntimeException( 'Unable to write CSV header.' );
 	}
-	fclose( $tmp_file );
-
-	rename( $tmp_path, $path );
+	foreach ($rows as $row) {
+		$values = [];
+		foreach ( CSV_FIELDS as $field ) {
+			$values[] = (string) ($row[$field] ?? '');
+		}
+		if (fputcsv( $tmp_file, $values, ',', '"', '\\' ) === false ) {
+			fclose( $tmp_file );
+			unlink( $tmp_path );
+			throw new RuntimeException( 'Unable to write CSV record.' );
+		}
+	}
+	if (! fclose( $tmp_file ) || ! rename( $tmp_path, $path ) ) {
+		unlink( $tmp_path );
+		throw new RuntimeException( 'Unable to replace CSV: ' . $path );
+	}
 }

@@ -1,18 +1,17 @@
 <?php
 /**
- * URL normalization and domain filtering.
+ * Bulletin PDF URL normalization and domain filtering.
  */
 
 declare(strict_types=1);
 
-const ALLOWED_DOMAIN = 'columbus.gov';
-const ALLOWED_SUFFIX = '.columbus.gov';
+const BULLETIN_PAGE_URL = 'https://www.columbus.gov/Government/City-Council/City-Bulletins';
 
 /**
- * Normalize a URL and filter to columbus.gov domain.
+ * Resolve a city PDF URL, including a Wayback-rewritten URL.
  *
  * @param  string $raw The raw URL to normalize.
- * @return ?string Normalized URL, or null if rejected.
+ * @return ?string Normalized city PDF URL, or null if rejected.
  */
 function normalize_url( string $raw ): ?string {
 	$raw = trim( $raw );
@@ -20,37 +19,40 @@ function normalize_url( string $raw ): ?string {
 		return null;
 	}
 
-	// Prepend domain to relative URLs starting with /
-	if (str_starts_with( $raw, '/' )) {
-		$raw = 'https://engage.columbus.gov' . $raw;
+	if (preg_match( '~^(?:https?://web\.archive\.org)?/web/\d+(?:[a-z_]+)?/(https?://.+)$~i', $raw, $matches ) ) {
+		$raw = $matches[1];
 	}
-
-	$parts = @parse_url( $raw );
-	if ($parts === false) {
+	if (str_starts_with( $raw, '//' ) ) {
+		$raw = 'https:' . $raw;
+	} elseif (str_starts_with( $raw, '/' ) ) {
+		$raw = 'https://www.columbus.gov' . $raw;
+	} elseif (! preg_match( '~^[a-z][a-z0-9+.-]*:~i', $raw ) ) {
+		$raw = 'https://www.columbus.gov/Government/City-Council/' . $raw;
+	}
+	$parts = parse_url( $raw );
+	if ($parts === false || isset( $parts['user'] ) || isset( $parts['pass'] ) || isset( $parts['port'] ) ) {
 		return null;
 	}
-
 	$scheme = strtolower( (string) ($parts['scheme'] ?? '') );
-	if ($scheme !== 'http' && $scheme !== 'https') {
-		return null;
-	}
-
 	$host = strtolower( (string) ($parts['host'] ?? '') );
-	if ($host === '') {
+	if (( $scheme !== 'http' && $scheme !== 'https' ) || ( $host !== 'columbus.gov' && ! str_ends_with( $host, '.columbus.gov' ) ) ) {
 		return null;
 	}
-
-	if ($host !== ALLOWED_DOMAIN && !str_ends_with( $host, ALLOWED_SUFFIX )) {
-		return null;
-	}
-
 	$path = (string) ($parts['path'] ?? '');
-	if ($path !== '/' && $path !== '') {
-		$path = rtrim( $path, '/' );
+	if (! preg_match( '/\.pdf$/i', $path ) ) {
+		return null;
 	}
-	if ($path === '') {
-		$path = '/';
+	$segments = [];
+	foreach ( explode( '/', $path ) as $segment ) {
+		if ($segment === '' || $segment === '.' ) {
+			continue;
+		}
+		if ($segment === '..' ) {
+			array_pop( $segments );
+		} else {
+			$segments[] = $segment;
+		}
 	}
-
-	return $scheme . '://' . $host . $path;
+	$query = isset( $parts['query'] ) ? '?' . $parts['query'] : '';
+	return $scheme . '://' . $host . '/' . implode( '/', $segments ) . $query;
 }

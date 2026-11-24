@@ -1,10 +1,11 @@
-name: Scrape engage.columbus.gov Sitemap
-run-name: "${{ github.actor }} is scraping engage.columbus.gov on ${{ github.event_name }}"
+name: Scrape Columbus City Bulletins
+run-name: "${{ github.actor }} is scraping City Bulletins on ${{ github.event_name }}"
 on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *" # Daily at 06:00 UTC
+    - cron: "0 6 * * 1" # Mondays at 6 a.m.; bulletins normally post on Sunday or Saturday.
+      timezone: "America/New_York"
 
 concurrency:
   group: scrape-rss
@@ -19,8 +20,17 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v7
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.5'
+          extensions: curl, dom, simplexml
+          coverage: none
       - name: Run scraper
-        run: |-
+        env:
+          IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
+          IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
+        run: |
           php main.php
       - name: "Store scraped content for debugging (on failure)"
         if: failure()
@@ -33,7 +43,6 @@ jobs:
           retention-days: 30
       - name: Validate feed XML
         run: php -r '$xml = simplexml_load_file("feed.xml"); if ($xml === false) { fwrite(STDERR, "Invalid feed.xml\n"); exit(1);} echo "feed.xml is valid XML\n";'
-        # Only runs when feed.xml exists (first run creates it; skipped if no new URLs)
         if: hashFiles('feed.xml') != ''
       - name: Commit and push changes
         run: |-
@@ -44,6 +53,6 @@ jobs:
             echo "No changes to commit."
           else
             timestamp=$(date -u)
-            git commit -m "chore: update links and feed ${timestamp}" || exit 
+            git commit -m "chore: update links and feed ${timestamp}" || exit
             git push
           fi

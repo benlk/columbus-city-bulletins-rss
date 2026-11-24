@@ -1,93 +1,59 @@
 <?php
 /**
- * Sitemap content parsing: XML sitemap and HTML anchor extraction.
+ * Extract bulletin metadata from city listing pages.
  */
 
 declare(strict_types=1);
 
 /**
- * Parse sitemap content and return URL and link text pairs.
+ * Parse PDF links inside the bulletin year sections of the main content.
  *
- * @param  string $content The sitemap HTML or XML content.
- * @return array Array of [url, link_text] pairs.
+ * @param  string $content Listing HTML.
+ * @return array Bulletin records with raw URLs and optional metadata.
+ * @throws RuntimeException When the listing structure is missing or empty.
  */
-function parse_sitemap( string $content ): array {
-	$xml_pairs = try_parse_xml_sitemap( $content );
-	if ($xml_pairs !== null) {
-		return $xml_pairs;
-	}
-
-	return parse_html_anchors( $content );
-}
-
-/**
- * Try to parse XML sitemap format.
- *
- * @param  string $content The content to parse.
- * @return ?array Array of [url, url] pairs, or null if not XML sitemap.
- */
-function try_parse_xml_sitemap(string $content): ?array {
-	libxml_use_internal_errors( true );
-	$xml = simplexml_load_string( $content );
-	if ($xml === false) {
-		return null;
-	}
-
-	$name = strtolower( $xml->getName() );
-	if (strpos( $name, 'urlset' ) === false && strpos( $name, 'sitemapindex' ) === false) {
-		return null;
-	}
-
-	$pairs = [];
-	$nodes = $xml->xpath( "//*[local-name()='loc']" );
-	if ($nodes === false) {
-		return [];
-	}
-
-	foreach ($nodes as $node) {
-		$url = trim( (string) $node );
-		if ($url !== '') {
-			$pairs[] = [$url, $url];
-		}
-	}
-
-	return $pairs;
-}
-
-/**
- * Extract href and link text pairs from HTML anchors.
- *
- * @param  string $content The HTML content to parse.
- * @return array Array of [href, link_text] pairs.
- */
-function parse_html_anchors(string $content): array {
-	libxml_use_internal_errors( true );
+function parse_bulletins( string $content ): array {
+	$previous = libxml_use_internal_errors( true );
 	$dom = new DOMDocument();
-	if (!$dom->loadHTML( $content )) {
-		return [];
+	$loaded = $content !== '' && $dom->loadHTML( $content );
+	libxml_clear_errors();
+	libxml_use_internal_errors( $previous );
+	if (! $loaded ) {
+		throw new RuntimeException( 'Unable to parse bulletin listing HTML.' );
 	}
 
 	$xpath = new DOMXPath( $dom );
-	$nodes = $xpath->query( '//a[@href]' );
-	if ($nodes === false) {
-		return [];
+	$links = $xpath->query( '//div[@id="main-content"]//a[@href]' );
+	if ($links === false ) {
+		throw new RuntimeException( 'Unable to select links inside main content.' );
 	}
 
-	$pairs = [];
-	foreach ($nodes as $node) {
-		$href = trim( (string) $node->getAttribute( 'href' ) );
-		if ($href === '' || str_starts_with( $href, '#' )) {
+	$records = [];
+	foreach ( $links as $link ) {
+		$href = trim( $link->getAttribute( 'href' ) );
+		if ($href === '' || stripos( $href, 'mailto:' ) === 0 ) {
 			continue;
 		}
-
-		$text = preg_replace( '/\s+/', ' ', trim( (string) $node->{'textContent'} ) );
-		$text = $text ?? '';
-		if ($text === '') {
-			continue;
+		$text = preg_replace( '/\s*\(PDF,?[^)]*\)\s*$/iu', '', $link->{'textContent'} );
+		$text = trim( preg_replace( '/\s+/u', ' ', $text ?? '' ) ?? '' );
+		$issue = '';
+		$date = '';
+		if (preg_match( '/^(\d+)\s*[-–—]\s*([A-Za-z]+\s+\d{1,2},?\s+\d{4})/u', $text, $matches ) ) {
+			$issue = $matches[1];
+			$parsed_date = strtotime( $matches[2] . ' UTC' );
+			if ($parsed_date !== false ) {
+				$date = gmdate( 'Y-m-d', $parsed_date );
+			}
 		}
-
-		$pairs[] = [$href, $text];
+		$records[] = [
+			'url' => $href,
+			'title' => $text,
+			'issue_number' => $issue,
+			'publication_date' => $date,
+		];
 	}
-
-	return $pairs;
+	if (count( $records ) === 0 ) {
+		throw new RuntimeException( 'Bulletin sections contain no PDF links.' );
+	}
+	return $records;
 }

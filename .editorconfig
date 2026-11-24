@@ -11,7 +11,8 @@ trim_trailing_whitespace = true
 [*.md]
 insert_final_newline = true
 
-[package.json]
+
+[package.json,*.yml]
 indent_size = 2
 indent_style = space
 tab_width = 2

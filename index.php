@@ -18,14 +18,14 @@ $converter = new League\CommonMark\GithubFlavoredMarkdownConverter();
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Engage Columbus Scrape-to-RSS</title>
+	<title>Columbus City Bulletins RSS</title>
 	<link rel="stylesheet" href="style.css">
-	<link rel="alternate" type="application/rss+xml" title="Engage Columbus RSS feed" href="feed.xml">
+	<link rel="alternate" type="application/rss+xml" title="Columbus City Bulletins RSS feed" href="feed.xml">
 </head>
 <body>
 	<header class="site-header">
 		<div class="site-header__inner">
-			<a class="site-name" href="./">Engage Columb<span style="color: var(--red);">us</span> RSS</a>
+			<a class="site-name" href="./">Columbus City Bulletins RSS</a>
 			<a class="feed-link" href="feed.xml">Subscribe to RSS <span aria-hidden="true">&#8599;</span></a>
 		</div>
 	</header>
@@ -33,7 +33,7 @@ $converter = new League\CommonMark\GithubFlavoredMarkdownConverter();
 		<?php echo $converter->convert( $markdown ); ?>
 	</main>
 	<footer class="site-footer">
-		<p>Engage Columbus Scrape-to-RSS</p>
+		<p>Columbus City Bulletins RSS</p>
 		<p><a href="https://benlk.github.io/">More projects like this, from Ben Keith</a></p>
 
 	</footer>
